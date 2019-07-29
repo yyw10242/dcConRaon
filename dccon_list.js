@@ -1,5 +1,4 @@
 {dcConsData = [{name:"AMD.png", keywords:["AMD"], tags:[""]},
-{name:"dccon_list.js", keywords:["dccon_list"], tags:[""]},
 {name:"DOCOMO.png", keywords:["DOCOMO"], tags:[""]},
 {name:"DTD.png", keywords:["DTD"], tags:[""]},
 {name:"INTEL.png", keywords:["INTEL"], tags:[""]},
