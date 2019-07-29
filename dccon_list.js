@@ -1,4 +1,4 @@
-{dcConsData = [{name:"AMD.png", keywords:["AMD"], tags:[""]},
+dcConsData = [{name:"AMD.png", keywords:["AMD"], tags:[""]},
 {name:"DOCOMO.png", keywords:["DOCOMO"], tags:[""]},
 {name:"DTD.png", keywords:["DTD"], tags:[""]},
 {name:"INTEL.png", keywords:["INTEL"], tags:[""]},
@@ -420,4 +420,4 @@
 {name:"흠.png", keywords:["흠"], tags:[""]},
 {name:"흠2.png", keywords:["흠2"], tags:[""]},
 {name:"흠흠흠.png", keywords:["흠흠흠"], tags:[""]},
-{name:"힘의차이.png", keywords:["힘의차이"], tags:[""]}]}
+{name:"힘의차이.png", keywords:["힘의차이"], tags:[""]}]
