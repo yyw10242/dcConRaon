@@ -1,2 +1,7 @@
-C:\Users\RaonMaru\Documents\GitHub\dcConRaon\images
-https://github.com/yyw10242/dcConRaon/blob/master
+C:\Users\(사용자이름)\dcConRaon\images
+https://raw.githubusercontent.com/yyw10242/dcConRaon/master
+
+첫줄: 이미지가 있는 폴더명
+두번째줄: github루트파일 raw 주소에서 뒤 주소를 뺀것
+ex) https://raw.githubusercontent.com/yyw10242/dcConRaon/master/dccon_list.json
+	->https://raw.githubusercontent.com/yyw10242/dcConRaon/master
