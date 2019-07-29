@@ -1,4 +1,4 @@
-C:\Users\RaonMaru\Documents\GitHub\dcConRaon\images
+C:\images
 https://raw.githubusercontent.com/yyw10242/dcConRaon/master
 
 첫줄: 이미지가 있는 폴더명
