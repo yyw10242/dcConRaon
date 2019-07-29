@@ -1,7 +1,9 @@
 # DcConProject
 1. Clone or Download 를 누른 후 Open in Desktop 을 눌러준다. (GitHub Desktop 이 이미 있다면 3번으로)
 2. GitHub Desktop 을 다운받는다.
-![Alt text](https://raw.githubusercontent.com/yyw10242/dcConRaon/master/howToUse/0downloadGitDesktop.PNG)
+
+![Alt text](https://raw.githubusercontent.com/yyw10242/dcConRaon/master/howToUse/0downloadGitDesktop.PNG
+
 3. C:\Users\사용자명\Documents\GitHub\dcConRaon 으로 이동한다.      //기본값
 4.  images 폴더에서 사용할 이미지를 추가, 제거, 이름변경한다.
 5. DCConListMaker폴더의 dcConMakerSettings.txt 를 열어준다
@@ -10,7 +12,9 @@
  ![Alt text](https://raw.githubusercontent.com/yyw10242/dcConRaon/master/howToUse/1pathsettingImages.gif)
 
 7.  두번째 줄은 이 페이지 루트 파일중 하나에서 raw 버튼을 눌러 "/파일명" 을 제외한 값을 복사하여 붙여넣는다.
+
  ![Alt text](https://github.com/yyw10242/dcConRaon/blob/master/howToUse/2pathsettingsUrl.gif?raw=true)
+ 
 8. DCConList_Maker.exe 를 실행한다.
 9. 상위폴더(C:\Users\사용자명\Documents\GitHub\dcConRaon)에 dccon_list.js, dccon_list.json이 생성된다.
 10. BridgeBBCC 를 사용중이라면 Bridgebbcc\lib config.js 에서
@@ -28,6 +32,7 @@
  ![Alt text](https://raw.githubusercontent.com/yyw10242/dcConRaon/master/howToUse/6getJsonLink.gif)
  
 13. https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=
+
     https://lastorder.xyz/ChatAssistX-Client/selector.html?dccon_list=
     위 링크 우측에 붙여넣고 브라우저로 실행해본다.->되면 디시콘 안내 리스트 링크로 사용한다.
 
