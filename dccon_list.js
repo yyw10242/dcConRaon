@@ -420,4 +420,4 @@
 {name:"흠.png", keywords:["흠"], tags:[""]},
 {name:"흠2.png", keywords:["흠2"], tags:[""]},
 {name:"흠흠흠.png", keywords:["흠흠흠"], tags:[""]},
-{name:"힘의차이.png", keywords:["힘의차이"], tags:[""]}]};
+{name:"힘의차이.png", keywords:["힘의차이"], tags:[""]}]}
