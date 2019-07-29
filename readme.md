@@ -13,7 +13,9 @@
  ![Alt text](https://github.com/yyw10242/dcConRaon/blob/master/howToUse/2pathsettingsUrl.gif?raw=true)
 8. DCConList_Maker.exe 를 실행한다.
 9. 상위폴더(C:\Users\사용자명\Documents\GitHub\dcConRaon)에 dccon_list.js, dccon_list.json이 생성된다.
-10. BridgeBBCC 를 사용중이라면 Bridgebbcc\lib 의 사전 설정을 진행한 후 dccon_list.js를 생성된 것으로 바꿔준다.  //추가설명 필요.틀렸을 수 있음.
+10. BridgeBBCC 를 사용중이라면 Bridgebbcc\lib config.js 에서
+    dcConsURI: "여기" 값을 C:/Users/사용자명/Documents/GitHub/dcConRaon(dccon_list.js가 생성된 곳)으로 적어준다. 
+      (**구분자는\, ￦이 아니고 /다)
 11. GitHub Desktop 에서 commit 후 push 해준다.
 
 
