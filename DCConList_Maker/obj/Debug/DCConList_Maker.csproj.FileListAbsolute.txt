@@ -1,7 +1,0 @@
-C:\Users\RaonMaru\Desktop\Dccon_ListJs_maker\DCConList_Maker\DCConList_Maker\bin\Debug\DCConList_Maker.exe.config
-C:\Users\RaonMaru\Desktop\Dccon_ListJs_maker\DCConList_Maker\DCConList_Maker\bin\Debug\DCConList_Maker.exe
-C:\Users\RaonMaru\Desktop\Dccon_ListJs_maker\DCConList_Maker\DCConList_Maker\bin\Debug\DCConList_Maker.pdb
-C:\Users\RaonMaru\Desktop\Dccon_ListJs_maker\DCConList_Maker\DCConList_Maker\obj\Debug\DCConList_Maker.csprojAssemblyReference.cache
-C:\Users\RaonMaru\Desktop\Dccon_ListJs_maker\DCConList_Maker\DCConList_Maker\obj\Debug\DCConList_Maker.csproj.CoreCompileInputs.cache
-C:\Users\RaonMaru\Desktop\Dccon_ListJs_maker\DCConList_Maker\DCConList_Maker\obj\Debug\DCConList_Maker.exe
-C:\Users\RaonMaru\Desktop\Dccon_ListJs_maker\DCConList_Maker\DCConList_Maker\obj\Debug\DCConList_Maker.pdb
